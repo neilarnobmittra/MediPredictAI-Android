@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/dashboard" />
+        <item
+            android:id="@+id/nav_symptoms"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="@string/symptoms" />
+        <item
+            android:id="@+id/nav_vitals"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="@string/vitals" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_doctors"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/doctors" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:title="@string/settings" />
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+</menu>

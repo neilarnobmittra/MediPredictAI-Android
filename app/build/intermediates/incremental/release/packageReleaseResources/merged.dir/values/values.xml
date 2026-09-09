@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F59E0B</color>
+    <color name="background">#F8FAFC</color>
+    <color name="black">#000000</color>
+    <color name="card_shadow">#1A000000</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="error">#EF4444</color>
+    <color name="high_risk">#EF4444</color>
+    <color name="low_risk">#10B981</color>
+    <color name="medium_risk">#F59E0B</color>
+    <color name="primary">#0D9488</color>
+    <color name="primary_dark">#0F766E</color>
+    <color name="primary_light">#5EEAD4</color>
+    <color name="splash_bg">#0D9488</color>
+    <color name="success">#10B981</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="warning">#F59E0B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">MediPredict AI</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="disclaimer">This app provides AI-generated predictions for educational purposes only. It is not a medical diagnosis. Always consult a licensed healthcare professional.</string>
+    <string name="doctors">Nearby Doctors</string>
+    <string name="email">Email</string>
+    <string name="gcm_defaultSenderId" translatable="false">355253371723</string>
+    <string name="google_api_key" translatable="false">AIzaSyCtWXgnRJUiak8e4AYqFWgq82z3LzGSkfk</string>
+    <string name="google_app_id" translatable="false">1:355253371723:android:acfd42bccb6f4de1445ece</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCtWXgnRJUiak8e4AYqFWgq82z3LzGSkfk</string>
+    <string name="google_storage_bucket" translatable="false">medipredictai-androidapp.firebasestorage.app</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="history">History</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Full Name</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="password">Password</string>
+    <string name="predict">Predict</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">medipredictai-androidapp</string>
+    <string name="register">Register</string>
+    <string name="settings">Settings</string>
+    <string name="symptoms">Symptom Checker</string>
+    <string name="tagline">AI-powered health insights at your fingertips</string>
+    <string name="vitals">Vitals Prediction</string>
+    <string name="welcome">Welcome to MediPredict AI</string>
+    <style name="CardStyle">
+        <item name="android:layout_margin">8dp</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+    </style>
+    <style name="OutlinedButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:padding">14dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:padding">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Theme.MediPredictAI" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.MediPredictAI.Splash" parent="Theme.MediPredictAI">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">@color/splash_bg</item>
+    </style>
+</resources>

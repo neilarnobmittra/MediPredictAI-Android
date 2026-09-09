@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_item_result.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/item_result.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_history.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/drawable_bg_chip.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_item_doctor.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/item_doctor.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_item_history.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/drawable_ic_heart_pulse.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/drawable/ic_heart_pulse.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_vitals.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_vitals.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_result.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/drawable_bg_button_primary.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_register.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/menu_nav_menu.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_symptoms.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_symptoms.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_profile.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_settings.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/drawable_bg_gradient.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_nav_header.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/drawable_bg_card.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_splash.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_doctors.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_doctors.xml"
+    },
+    {
+        "merged": "com.medipredict.ai.app-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "com.medipredict.ai.app-main-52:/layout/activity_login.xml"
+    }
+]

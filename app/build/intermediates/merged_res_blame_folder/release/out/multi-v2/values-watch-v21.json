@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.medipredict.ai.app-mergeReleaseResources-49:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Neilarnob\\.gradle\\caches\\transforms-3\\b5575a86ee5ccf20f778177f2b298974\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
